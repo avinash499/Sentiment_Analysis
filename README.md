@@ -32,4 +32,19 @@ AWS Configuration:
   To configure AWS CLI use this command in cmd "aws configure"
 
 
+![image](https://github.com/user-attachments/assets/913963e0-9f12-414d-97a0-fe872c9cb278)
+
+![image](https://github.com/user-attachments/assets/4686ea2b-5bf3-44b0-9775-27801553a9df)
+
+![image](https://github.com/user-attachments/assets/b4aa758d-5f34-443c-9e3b-58120239cb53)
+
+![image](https://github.com/user-attachments/assets/004194a6-85e2-4b89-9bcd-6a9414a994b3)
+
+![image](https://github.com/user-attachments/assets/95e6fa3d-c920-4003-a759-efbed81a11ba)
+
+![image](https://github.com/user-attachments/assets/dd89577d-38aa-4226-97a5-e3f77c91fdf5)
+
+![image](https://github.com/user-attachments/assets/f6327ff0-9fb8-44b6-b58f-d2d5a030f8ea)
+
+
 
